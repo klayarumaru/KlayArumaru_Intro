@@ -1,5 +1,9 @@
 <template>
-    <div> abc</div>
+    <div id="wrapper">
+      <div id="header"></div>
+      <div id="contents"></div>
+      <div id="footer"></div>
+    </div>
 </template>
 
 <script>
